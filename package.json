@@ -1,0 +1,20 @@
+{
+  "name": "rech-text-manipulation",
+  "main": "./lib/rech-text-manipulation",
+  "version": "0.0.0",
+  "description": "A set of text manipulation and block operations for Atom text editor",
+  "keywords": [
+    "text",
+    "manipulation",
+    "selection",
+    "block"
+  ],
+  "repository": "https://github.com/RechInformatica/rech-text-manipulation",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "rech-atom-commons": "^0.2.0"
+  }
+}
