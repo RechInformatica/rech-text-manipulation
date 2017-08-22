@@ -1,7 +1,7 @@
 {
   "name": "rech-text-manipulation",
   "main": "./lib/rech-text-manipulation",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A set of text manipulation and block operations for Atom text editor",
   "keywords": [
     "text",
